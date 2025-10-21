@@ -14,3 +14,4 @@ FUTURE PLANS:
 - Keyboard support (see table below)
 - Responsive layout (mobile → desktop)
 - Black and White mode
+- Handle diving-by-zero
