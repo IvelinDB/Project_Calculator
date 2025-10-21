@@ -10,7 +10,7 @@ A tiny project built with HTML, CSS, and JavaScript.
 - Clear (AC) and backspace (⌫)
 - Decimal inputs
 
-FUTURE PLANS:
+FUTURE PLANS / BUG FIXES:
 - Keyboard support (see table below)
 - Responsive layout (mobile → desktop)
 - Black and White mode
